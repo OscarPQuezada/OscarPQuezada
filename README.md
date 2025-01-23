@@ -5,9 +5,8 @@
 
 </div>
 
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/gist/Pepyn0/99b1635ffc5c8e325bdcdd93115f09f9/raw/22c367b789fc8fabb9608e44133eddb3c3c432ce/github-header-image.svg" alt="Card header"/>
+  <img src="https://raw.githubusercontent.com/gist/OscarPQuezada/99b1635ffc5c8e325bdcdd93115f09f9/raw/22c367b789fc8fabb9608e44133eddb3c3c432ce/github-header-image.svg" alt="Card header"/>
 </div>
 
 <p align="center">
@@ -17,7 +16,6 @@
     <img src="https://img.shields.io/github/followers/OscarPQuezada?style=social" alt="Followers" />
   </a>
 </p>
-
 
 <div>
 
@@ -35,7 +33,6 @@
 
 </div>
 
-
 <div align="center">
 
   `Developer and IT enthusiast`
@@ -47,7 +44,6 @@
   `¯\_(ツ)_/¯`
 </div>
 
-
 <div>
 
   ## 📚 &nbsp;Currently studying
@@ -58,7 +54,6 @@
   - TDD
 
 </div>
-
 
 <div>
 
@@ -86,15 +81,14 @@
 
 </div>
 
-
 <div>
 
   ## 📊 &nbsp;My activities
-  <a href="https://github.com/Pepyn0">
-    <img width=450 height=170 align="center" alt="Pepyn0" src="https://github-readme-stats.vercel.app/api?username=Pepyn0&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
+  <a href="https://github.com/OscarPQuezada">
+    <img width=450 height=170 align="center" alt="OscarPQuezada" src="https://github-readme-stats.vercel.app/api?username=OscarPQuezada&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
   </a>
-  <a href="https://github.com/Pepyn0">
-    <img align="center" alt="Pepyn0" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pepyn0&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
+  <a href="https://github.com/OscarPQuezada">
+    <img align="center" alt="OscarPQuezada" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OscarPQuezada&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
   </a>
 </div>
 
@@ -103,7 +97,7 @@
   ## 📫 &nbsp;My Contacts
 
   <!-- [![Portfolio Badge](https://img.shields.io/badge/-Portifolio-blueviolet?style=flat-square&logo=Portfolio&logoColor=white)](https://pepyn0.github.io/)&nbsp; -->
-  [![LinkedIn Badge](https://img.shields.io/badge/-Oscar_Poblete-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pablodsilva/)](https://www.linkedin.com/in/ospo/)&nbsp;
+  [![LinkedIn Badge](https://img.shields.io/badge/-Oscar_Poblete-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ospo/)](https://www.linkedin.com/in/ospo/)&nbsp;
   [![Gmail Badge](https://img.shields.io/badge/-pablo.pds100@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:pablo.pds100@gmail.com)&nbsp;
   [![Instagram Badge](https://img.shields.io/badge/-Pepyn0__-EB2A08?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/pepyn0_/)&nbsp;
   [![Twitter Badge](https://img.shields.io/badge/-Pepyn0-blue?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/Pepyn0)&nbsp;
@@ -111,17 +105,16 @@
 
 </div>
 
-
-<!-- ![Snake animation](https://github.com/Pepyn0/Pepyn0/blob/output/github-contribution-grid-snake.svg) -->
+<!-- ![Snake animation](https://github.com/OscarPQuezada/OscarPQuezada/blob/output/github-contribution-grid-snake.svg) -->
 
 <div>
-  <img src="https://github.com/Pepyn0/Pepyn0/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/OscarPQuezada/OscarPQuezada/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </div>
 
 <!-- ## 📚 &nbsp;My Projects -->
 
 
 ------
-Credits: [Pepyn0](https://github.com/Pepyn0)
+Credits: [OscarPQuezada](https://github.com/OscarPQuezada)
 
 Last Edited on: 26/05/2022
