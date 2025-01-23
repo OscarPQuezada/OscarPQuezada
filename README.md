@@ -5,8 +5,9 @@
 
 </div>
 
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/gist/OscarPQuezada/99b1635ffc5c8e325bdcdd93115f09f9/raw/22c367b789fc8fabb9608e44133eddb3c3c432ce/github-header-image.svg" alt="Card header"/>
+  <img src="https://raw.githubusercontent.com/OscarPQuezada/OscarPQuezada/main/github-header.png" alt="Card header" />
 </div>
 
 <p align="center">
@@ -16,6 +17,7 @@
     <img src="https://img.shields.io/github/followers/OscarPQuezada?style=social" alt="Followers" />
   </a>
 </p>
+
 
 <div>
 
@@ -33,6 +35,7 @@
 
 </div>
 
+
 <div align="center">
 
   `Developer and IT enthusiast`
@@ -44,6 +47,7 @@
   `¯\_(ツ)_/¯`
 </div>
 
+
 <div>
 
   ## 📚 &nbsp;Currently studying
@@ -54,6 +58,7 @@
   - TDD
 
 </div>
+
 
 <div>
 
@@ -81,6 +86,7 @@
 
 </div>
 
+
 <div>
 
   ## 📊 &nbsp;My activities
@@ -105,16 +111,11 @@
 
 </div>
 
-<!-- ![Snake animation](https://github.com/OscarPQuezada/OscarPQuezada/blob/output/github-contribution-grid-snake.svg) -->
+
+<!-- ![Snake animation](https://github.com/Pepyn0/Pepyn0/blob/output/github-contribution-grid-snake.svg) -->
 
 <div>
   <img src="https://github.com/OscarPQuezada/OscarPQuezada/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </div>
 
 <!-- ## 📚 &nbsp;My Projects -->
-
-
-------
-Credits: [OscarPQuezada](https://github.com/OscarPQuezada)
-
-Last Edited on: 26/05/2022
