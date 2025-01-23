@@ -11,10 +11,10 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pepyn0&color=blueviolet" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=OscarPQuezada&color=blueviolet" alt="Profile views" />
   &nbsp;
-  <a href="https://github.com/Pepyn0?tab=followers">
-    <img src="https://img.shields.io/github/followers/Pepyn0?style=social" alt="Followers" />
+  <a href="https://github.com/OscarPQuezada?tab=followers">
+    <img src="https://img.shields.io/github/followers/OscarPQuezada?style=social" alt="Followers" />
   </a>
 </p>
 
@@ -29,8 +29,6 @@
   - 🌱  I’m always studying **JavaScript**, **TypeScript**, **ReactJS**, **NodeJS**, **Dart**, **Flutter** and **Python**.
 
   - 💬 Ask me about **any technology**.
-
-  - ⚡ Fun fact: I'm a <a href="https://en.wikipedia.org/wiki/Potato">potato</a>
 
   <br>
   
