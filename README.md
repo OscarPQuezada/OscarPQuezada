@@ -58,7 +58,7 @@
 </div>
 
 <br>
-
+-----
 <p align="center"> 
   <div align="center">Visitor count</div>
   <div align="center">
@@ -66,6 +66,7 @@
   </div> 
 </p>
 
+-----
 <h3 align="center" >Connect with me 🤝 </h3>
 
 <p align="center">
