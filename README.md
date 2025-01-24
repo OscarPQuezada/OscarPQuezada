@@ -33,8 +33,6 @@
   ![AWS Lambda](https://img.shields.io/badge/-AWS%20Lambda-0D1117?style=flat&logo=aws-lambda)&nbsp;
   ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=flat&logo=css3&logoColor=1572B6)&nbsp;
   ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=flat&logo=javascript&logoColor=F7DF1E)&nbsp;
-
-
 <br/>
 
 <p align="center">
