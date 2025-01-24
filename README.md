@@ -67,7 +67,7 @@
 </p>
 
 -----
-<h3 align="left" >Connect with me 🤝 </h3>
+<h3 align="center" >Connect with me 🤝 </h3>
 <p align="center">
  <div align="center"  class="icons-social" style="margin-left: 10px;">
         <a   target="_blank" href="https://www.linkedin.com/in/ospo/">
