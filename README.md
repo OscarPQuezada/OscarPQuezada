@@ -58,7 +58,7 @@
 </div>
 
 <br>
------
+
 <p align="center"> 
   <div align="center">Visitor count</div>
   <div align="center">
@@ -66,11 +66,10 @@
   </div> 
 </p>
 
+-----
 <h3 align="center" >Connect with me 🤝 </h3>
-
 <p align="left">
-
- <div align="center"  class="icons-social" style="margin-left: 10px;">
+ <div align="left"  class="icons-social" style="margin-left: 10px;">
         <a   target="_blank" href="https://www.linkedin.com/in/ospo/">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" style="margin-left: 10px;" ></a>
         <a style="margin-left: 10px;" target="_blank" href="mailto:oscarpquezada@gmail.com">
