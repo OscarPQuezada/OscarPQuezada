@@ -52,8 +52,8 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OscarPQuezada&theme=dracula&hide_border=false&include_all_commits=true&count_private=true"" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OscarPQuezada&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=OscarPQuezada&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" width="33%" style="margin-right: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OscarPQuezada&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="33%" />
 </div>
 
 <br>
