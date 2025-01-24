@@ -42,7 +42,7 @@
     <img src="https://user-images.githubusercontent.com/64439609/212556741-81407849-82c8-4926-854f-820e8a644375.png" width="40" height="40" alt="Git"/>
     <img src="https://user-images.githubusercontent.com/64439609/212556802-77a65ec1-aa71-4272-b603-1a57d1914678.png" width="40" height="40" alt="Git"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="40" height="40" alt="AWS" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/AWS_Lambda_logo.svg" width="40" height="40" alt="AWS Lambda Function" />
+    <img src="https://d1.awsstatic.com/product-marketing/Serverless/AWS_Lambda.svg" width="40" height="40" alt="AWS Lambda Function" />
 
 <br>
 </p>
