@@ -12,10 +12,10 @@
 <div align="center">
 <br/>
 
-- 🌱 My name is niefee, I am Chinese, welcome to my GitHub home page
-- ⚡ I know HTML
-- 😄 And a little bit of CSS, JavaScript, ReactJS, NodeJS, Vue.js, etc.
-- 💖 Love the beautiful code and photos
+- 🌱 My name is Oscar, I am Chilean, welcome to my GitHub home page
+- ⚡ I know Python
+- 😄 And a little bit of CSS, JavaScript, AWS, AWS Lambda, PostgreSQL etc.
+- 💖 Love the movies, tv series and travel
 - 🔥 One is never too old to learn.
 
 <br/>
@@ -29,6 +29,11 @@
   ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-0D1117?style=flat&logo=jupyter)&nbsp;
   ![Docker](https://img.shields.io/badge/-Docker-0D1117?style=flat&logo=docker)&nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-0D1117?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+  ![AWS](https://img.shields.io/badge/-AWS-0D1117?style=flat&logo=amazon-aws)&nbsp;
+  ![AWS Lambda](https://img.shields.io/badge/-AWS%20Lambda-0D1117?style=flat&logo=aws-lambda)&nbsp;
+  ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=flat&logo=css3&logoColor=1572B6)&nbsp;
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=flat&logo=javascript&logoColor=F7DF1E)&nbsp;
+
 
 <br/>
 
