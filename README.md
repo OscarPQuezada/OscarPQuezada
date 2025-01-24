@@ -52,14 +52,12 @@
 <br>
 
 <div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=OscarPQuezada&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=OscarPQuezada&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=OscarPQuezada&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-	
-</a>
+  <img src="https://github-readme-stats.vercel.app/api?username=OscarPQuezada&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" width="33%" style="margin-right: 10px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OscarPQuezada&theme=dracula&hide_border=false" width="33%" style="margin-right: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OscarPQuezada&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="33%" />
 </div>
 
+<br>
 
 <p align="center"> 
   <div align="center">Visitor count</div>
