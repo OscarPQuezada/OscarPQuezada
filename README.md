@@ -9,7 +9,7 @@
 </p>
 
 ---
-<div align="center">
+<div align="left">
 <br/>
 
 - 🌱 My name is Oscar, I am Chilean, welcome to my GitHub home page
