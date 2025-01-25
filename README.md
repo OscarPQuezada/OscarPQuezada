@@ -12,11 +12,10 @@
 <div align="left">
 <br/>
 
-- 🌱 My name is Oscar, I am Chilean, welcome to my GitHub home page
-- ⚡ I know Python
-- 😄 And a little bit of CSS, JavaScript, AWS, AWS Lambda, PostgreSQL etc.
-- 💖 Love the movies, tv series and animals 🐶
-- 🔥 One is never too old to learn.
+🌱 Hi, my name is Oscar! I'm Chilean, and welcome to my GitHub homepage.
+⚡ I’m proficient in Python.
+😄 I also have some experience with CSS, JavaScript, AWS, AWS Lambda, PostgreSQL, and more.
+💖 I’m passionate about movies, TV series, and dogs 🐶
 </div>
 <br/>
 
@@ -48,7 +47,7 @@
 <br>
 </p>
 
-_**📚 Currently Learning**:
+- **📚 Currently Learning**:
 
 <p align="center">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="40" alt="Docker" />
