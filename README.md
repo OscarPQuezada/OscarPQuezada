@@ -15,7 +15,7 @@
 - 🌱 My name is Oscar, I am Chilean, welcome to my GitHub home page
 - ⚡ I know Python
 - 😄 And a little bit of CSS, JavaScript, AWS, AWS Lambda, PostgreSQL etc.
-- 💖 Love the movies, tv series and travel
+- 💖 Love the movies, tv series and animals 🐶
 - 🔥 One is never too old to learn.
 </div>
 <br/>
@@ -48,6 +48,13 @@
 <br>
 </p>
 
+_**📚 Currently Learning**:
+
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" width="140" height="40" alt="Docker" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" width="140" height="40" alt="Tableau" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" width="140" height="40" alt="Power BI" />
+<br>
+</p>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
