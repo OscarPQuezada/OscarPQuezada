@@ -13,8 +13,11 @@
 <br/>
 
 🌱 Hi, my name is Oscar! I'm Chilean, and welcome to my GitHub homepage.
+
 ⚡ I’m proficient in Python.
+
 😄 I also have some experience with CSS, JavaScript, AWS, AWS Lambda, PostgreSQL, and more.
+
 💖 I’m passionate about movies, TV series, and dogs 🐶
 </div>
 <br/>
