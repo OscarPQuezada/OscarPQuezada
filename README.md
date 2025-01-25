@@ -49,9 +49,9 @@
 
 - **📚 Currently Learning**:
 
-   <img src="https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker" width="40" height="40" alt="Docker" />&nbsp;
-   <img src="https://img.shields.io/badge/-Tableau-0D1117?style=for-the-badge&logo=tableau" width="40" height="40" alt="Tableau" />&nbsp;
-   <img src="https://img.shields.io/badge/-Power%20BI-0D1117?style=for-the-badge&logo=power-bi" width="40" height="40" alt="Power BI" />&nbsp;
+   ![Docker](https://img.shields.io/badge/-Docker-0D1117?style=flat&logo=docker&width=40&height=40)&nbsp;
+   ![Tableau](https://img.shields.io/badge/-Tableau-0D1117?style=flat&logo=tableau&width=40&height=40)&nbsp;
+   ![Power BI](https://img.shields.io/badge/-Power%20BI-0D1117?style=flat&logo=power-bi&width=40&height=40)&nbsp;
 
 <br>
 
